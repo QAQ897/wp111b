@@ -1,0 +1,25 @@
+<html>
+<style>
+</style>
+<body>
+
+<h1>註冊</h1>
+
+<p><input type="text" placeholder="姓名"/></p>
+<p><input type="text" placeholder="暱稱"/></p>
+<form>
+<input type="radio" id="boy" name="gender" value="男生">
+<label for="html">男生</label><br>
+<input type="radio" id="girl" name="gender" value="女生">
+<label for="css">女生</label><br>
+</form> 
+<p><input type="blood" placeholder="血型"/></p>
+<p><input type="text" placeholder="帳號"/></p>
+<p><input type="phone" placeholder="電話"/></p>
+<p><input type="email" placeholder="email"/></p>
+<p><input type="password" placeholder="密碼"/></p>
+<p><input type="password" placeholder="確認密碼"/></p>
+<p><input type="date" placeholder="生日"/></p>
+<p><input type="submit" value="Submit"></p>
+</body>
+</html>
