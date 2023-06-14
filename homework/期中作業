@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>健康生活</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        nav {
+            margin-top: 20px;
+            text-align: center;
+        }
+        
+        nav a {
+            color: #333;
+            text-decoration: none;
+            padding: 10px;
+        }
+        
+        nav a:hover {
+            background-color: #333;
+            color: #fff;
+        }
+        
+        main {
+            padding: 20px;
+        }
+        
+        section {
+            margin-bottom: 20px;
+        }
+        
+        h2 {
+            color: #333;
+        }
+        
+        p {
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>健康生活</h1>
+        <nav>
+            <a href="#">關於我們</a>
+            <a href="#">健康飲食</a>
+            <a href="#">運動健身</a>
+            <a href="#">心靈成長</a>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>關於我們</h2>
+            <p>「健康生活」致力於提供有關健康和生活方式的資訊和資源，幫助人們達到身心健康的目標。</p>
+        </section>
+        
+        <section>
+            <h2>健康飲食</h2>
+            <p>在這裡，你將找到有關均衡飲食、食物營養價值以及健康食譜的資訊。</p>
+        </section>
+        
+        <section>
+            <h2>運動健身</h2>
+            <p>探索各種運動和健身活動，獲得鍛煉技巧和建議，保持身體健康和強壯。</p>
+        </section>
+        
+        <section>
+            <h2>心靈成長</h2>
+            <p>這裡提供心理健康、壓力管理和情緒調節等方面的內容，幫助你實現內在平衡和成長。</p>
+        </section>
+    </main>
+</body>
+</html>
