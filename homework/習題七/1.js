@@ -12,9 +12,10 @@ var m2i = {
     November:11,
     December:12
 }
-function monthToIndex(month)
+function month(month)
 {
     return m2i[month]
 }
-console.log("October is:",monthToIndex("October"))
-console.log("April is:",monthToIndex("April"))
+console.log(month("October"))
+console.log(month("April"))
+console.log(month("July"))
